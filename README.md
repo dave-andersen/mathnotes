@@ -33,3 +33,5 @@ Elegant. And it admits a nice visual/physical interpretation for the 5yo too:
 <img alt="Image of a set of 30 cubes arranged as a 5x5 and 1x5 pattern" src="images/sqrt_blocks.jpg" width="300">
 
 $5 \times 5$ is 25, but that leaves 5 left over. $\frac{5}{5} = 1$, but you only want to add one block total, not one block to each part of the sqrt, or you'll go too high. So you split the block in half.
+
+(Another way to view this is to take the five leftover blocks, split them in half and put one on each axis, observing that if you do that, you'll end up with an extra $\frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$ block too much, but it's pretty darn close. You could, of course, take the next step in the approximation -- subtract $\frac{0.25}{2*5.5} \approx 0.0227$ from the total to get 5.4773, which is awfully close.
