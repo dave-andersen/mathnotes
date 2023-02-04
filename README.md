@@ -30,6 +30,6 @@ Pretty close to the true value of 12.247.
 
 Elegant. And it admits a nice visual/physical interpretation for the 5yo too:
 
-<img alt="Image of a set of 30 cubes arranged as a 5x5 and 1x5 pattern" src="PXL_20230204_024308484.jpg" width="300">
+<img alt="Image of a set of 30 cubes arranged as a 5x5 and 1x5 pattern" src="images/sqrt_blocks.jpg" width="300">
 
 5*5 is 25, but that leaves 5 left over. 5/5 is 1, but if you add one to the sqrt it's too much - you want to add half.
