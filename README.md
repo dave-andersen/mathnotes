@@ -32,4 +32,4 @@ Elegant. And it admits a nice visual/physical interpretation for the 5yo too:
 
 <img alt="Image of a set of 30 cubes arranged as a 5x5 and 1x5 pattern" src="images/sqrt_blocks.jpg" width="300">
 
-5*5 is 25, but that leaves 5 left over. 5/5 is 1, but if you add one to the sqrt it's too much - you want to add half.
+$5 \times 5$ is 25, but that leaves 5 left over. $\frac{5}{5} = 1$, but you only want to add one block total, not one block to each part of the sqrt, or you'll go too high. So you split the block in half.
